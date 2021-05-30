@@ -9,7 +9,7 @@
 
 ## Contents
 
-* [What is strategy tester?](#What-is-strategy-tester?)
+* [What is strategy tester?](#What is strategy tester?)
 * [Libraries](#Libraries)
 * [Description of each file](#Description-of-each-file)
 * [Datasets](#Datasets)
