@@ -32,8 +32,8 @@ The Strategy Tester allows you to test and optimize trading strategies (Expert A
 1.[tester.py](https://github.com/ArunavD/market_strategy_tester/blob/master/tester.py) - This is the main method of the project where strategy is being executed.
 
 2.[strategies.py](https://github.com/ArunavD/market_strategy_tester/blob/master/strategies.py) - Here I have created a strategy to implement as an example. The idea I have used is:
-        * If not in position then, if two consicutive dip happens from a given date, buy a fixed about of stock.
-        * Hold it for 5 days and sell it.
+* If not in position then, if two consicutive dip happens from a given date, buy a fixed about of stock.
+* Hold it for 5 days and sell it.
 
 
 ## Datasets
